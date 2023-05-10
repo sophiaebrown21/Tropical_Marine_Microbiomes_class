@@ -1,0 +1,459 @@
+﻿Run,cf,empo_3,env_material,Experiment,Host_sample_ID,host_subject_id,Organism,Sample_Name,Sample_plate,Sample_location,Sample_well,host_body_habitat,host_body_product,host_body_site,Tank,Treatment_period,Treatment_type
+ERR3294907,1,Animal distal gut,feces,ERX3321234,1.10.12,1,gut metagenome,SAMEA5578980,Fecal_3,Fecal,A1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3294908,1,Animal distal gut,feces,ERX3321235,1.10.13,1,gut metagenome,SAMEA5578981,Fecal_3,Fecal,A4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3294909,1,Animal distal gut,feces,ERX3321236,1.10.14,1,gut metagenome,SAMEA5578982,Fecal_3,Fecal,A7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3294910,1,Animal distal gut,feces,ERX3321237,1.10.15,1,gut metagenome,SAMEA5578983,Fecal_3,Fecal,A10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3294911,1,Animal distal gut,feces,ERX3321238,1.10.4,1,gut metagenome,SAMEA5578984,Fecal_2,Fecal,A1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3294912,1,Animal distal gut,feces,ERX3321239,1.10.6,1,gut metagenome,SAMEA5578985,Fecal_2,Fecal,A4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3294913,1,Animal distal gut,feces,ERX3321240,1.10.7,1,gut metagenome,SAMEA5578986,Fecal_2,Fecal,A7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3294914,1,Animal distal gut,feces,ERX3321241,1.10.9,1,gut metagenome,SAMEA5578987,Fecal_2,Fecal,A10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3294915,1,Animal distal gut,feces,ERX3321242,1.9.27,1,gut metagenome,SAMEA5578988,Fecal_1,Fecal,A1,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3294916,1,Animal distal gut,feces,ERX3321243,1.9.28,1,gut metagenome,SAMEA5578989,Fecal_1,Fecal,A4,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3294917,1,Animal distal gut,feces,ERX3321244,1.9.29,1,gut metagenome,SAMEA5578990,Fecal_1,Fecal,A7,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3294918,1,Animal distal gut,feces,ERX3321245,1.9.30,1,gut metagenome,SAMEA5578991,Fecal_1,Fecal,A10,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3294919,10,Animal distal gut,feces,ERX3321246,10.10.12,10,gut metagenome,SAMEA5578992,Fecal_3,Fecal,B2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294920,10,Animal distal gut,feces,ERX3321247,10.10.13,10,gut metagenome,SAMEA5578993,Fecal_3,Fecal,B5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294921,10,Animal distal gut,feces,ERX3321248,10.10.14,10,gut metagenome,SAMEA5578994,Fecal_3,Fecal,B8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294922,10,Animal distal gut,feces,ERX3321249,10.10.15,10,gut metagenome,SAMEA5578995,Fecal_3,Fecal,B11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294923,10,Animal distal gut,feces,ERX3321250,10.10.4,10,gut metagenome,SAMEA5578996,Fecal_2,Fecal,B2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294924,10,Animal distal gut,feces,ERX3321251,10.10.6,10,gut metagenome,SAMEA5578997,Fecal_2,Fecal,B5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294925,10,Animal distal gut,feces,ERX3321252,10.10.7,10,gut metagenome,SAMEA5578998,Fecal_2,Fecal,B8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294926,10,Animal distal gut,feces,ERX3321253,10.10.9,10,gut metagenome,SAMEA5578999,Fecal_2,Fecal,B11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294927,10,Animal distal gut,feces,ERX3321254,10.9.27,10,gut metagenome,SAMEA5579000,Fecal_1,Fecal,B2,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294928,10,Animal distal gut,feces,ERX3321255,10.9.28,10,gut metagenome,SAMEA5579001,Fecal_1,Fecal,B5,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294929,10,Animal distal gut,feces,ERX3321256,10.9.29,10,gut metagenome,SAMEA5579002,Fecal_1,Fecal,B8,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294930,10,Animal distal gut,feces,ERX3321257,10.9.30,10,gut metagenome,SAMEA5579003,Fecal_1,Fecal,B11,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294931,10,Animal distal gut,intestine environment,ERX3321258,10CEC,10,gut metagenome,SAMEA5579004,Tissue_1,Cecum,C10,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294932,10,Animal distal gut,intestine environment,ERX3321259,10DG,10,gut metagenome,SAMEA5579005,Tissue_1,Digestive_gland,G10,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294933,10,Animal proximal gut,intestine environment,ERX3321260,10ESO,10,gut metagenome,SAMEA5579006,Tissue_1,Esophagus,A10,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294934,10,Animal surface,organic material,ERX3321261,10GIL,10,fish metagenome,SAMEA5579007,Tissue_1,Gill,E10,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3294935,10,Animal distal gut,intestine environment,ERX3321262,10INT,10,gut metagenome,SAMEA5579008,Tissue_1,Intestine,D10,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294936,10,Animal corpus,organic material,ERX3321263,10KID,10,fish metagenome,SAMEA5579009,Tissue_1,Kidney,F10,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3294937,10,Animal surface,organic material,ERX3321264,10SKI,10,fish metagenome,SAMEA5579010,Tissue_1,Skin,H10,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3294938,10,Animal proximal gut,intestine environment,ERX3321265,10STO,10,gut metagenome,SAMEA5579011,Tissue_1,Stomach,B10,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
+ERR3294939,11,Animal distal gut,feces,ERX3321266,11.10.12,11,gut metagenome,SAMEA5579012,Fecal_3,Fecal,C2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294940,11,Animal distal gut,feces,ERX3321267,11.10.14,11,gut metagenome,SAMEA5579013,Fecal_3,Fecal,C8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294941,11,Animal distal gut,feces,ERX3321268,11.10.15,11,gut metagenome,SAMEA5579014,Fecal_3,Fecal,C11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294942,11,Animal distal gut,feces,ERX3321269,11.10.4,11,gut metagenome,SAMEA5579015,Fecal_2,Fecal,C2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294943,11,Animal distal gut,feces,ERX3321270,11.10.6,11,gut metagenome,SAMEA5579016,Fecal_2,Fecal,C5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294944,11,Animal distal gut,feces,ERX3321271,11.10.7,11,gut metagenome,SAMEA5579017,Fecal_2,Fecal,C8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294945,11,Animal distal gut,feces,ERX3321272,11.10.9,11,gut metagenome,SAMEA5579018,Fecal_2,Fecal,C11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294946,11,Animal distal gut,feces,ERX3321273,11.9.27,11,gut metagenome,SAMEA5579019,Fecal_1,Fecal,C2,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294947,11,Animal distal gut,feces,ERX3321274,11.9.28,11,gut metagenome,SAMEA5579020,Fecal_1,Fecal,C5,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294948,11,Animal distal gut,feces,ERX3321275,11.9.29,11,gut metagenome,SAMEA5579021,Fecal_1,Fecal,C8,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294949,11,Animal distal gut,feces,ERX3321276,11.9.30,11,gut metagenome,SAMEA5579022,Fecal_1,Fecal,C11,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294950,11,Animal distal gut,intestine environment,ERX3321277,11CEC,11,gut metagenome,SAMEA5579023,Tissue_1,Cecum,C11,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294951,11,Animal distal gut,intestine environment,ERX3321278,11DG,11,gut metagenome,SAMEA5579024,Tissue_1,Digestive_gland,G11,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294952,11,Animal proximal gut,intestine environment,ERX3321279,11ESO,11,gut metagenome,SAMEA5579025,Tissue_1,Esophagus,A11,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294953,11,Animal surface,organic material,ERX3321280,11GIL,11,fish metagenome,SAMEA5579026,Tissue_1,Gill,E11,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3294954,11,Animal distal gut,intestine environment,ERX3321281,11INT,11,gut metagenome,SAMEA5579027,Tissue_1,Intestine,D11,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294955,11,Animal corpus,organic material,ERX3321282,11KID,11,fish metagenome,SAMEA5579028,Tissue_1,Kidney,F11,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3294956,11,Animal surface,organic material,ERX3321283,11SKI,11,fish metagenome,SAMEA5579029,Tissue_1,Skin,H11,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3294957,11,Animal proximal gut,intestine environment,ERX3321284,11STO,11,gut metagenome,SAMEA5579030,Tissue_1,Stomach,B11,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
+ERR3294958,10,Animal distal gut,feces,ERX3321285,12.10.12,12,gut metagenome,SAMEA5579031,Fecal_3,Fecal,D2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294959,10,Animal distal gut,feces,ERX3321286,12.10.13,12,gut metagenome,SAMEA5579032,Fecal_3,Fecal,D5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294960,10,Animal distal gut,feces,ERX3321287,12.10.14,12,gut metagenome,SAMEA5579033,Fecal_3,Fecal,D8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294961,10,Animal distal gut,feces,ERX3321288,12.10.15,12,gut metagenome,SAMEA5579034,Fecal_3,Fecal,D11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294962,12,Animal distal gut,feces,ERX3321289,12.10.4,12,gut metagenome,SAMEA5579035,Fecal_2,Fecal,D2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294963,12,Animal distal gut,feces,ERX3321290,12.10.6,12,gut metagenome,SAMEA5579036,Fecal_2,Fecal,D5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294964,12,Animal distal gut,feces,ERX3321291,12.10.7,12,gut metagenome,SAMEA5579037,Fecal_2,Fecal,D8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294965,12,Animal distal gut,feces,ERX3321292,12.10.9,12,gut metagenome,SAMEA5579038,Fecal_2,Fecal,D11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294966,12,Animal distal gut,feces,ERX3321293,12.9.27,12,gut metagenome,SAMEA5579039,Fecal_1,Fecal,D2,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294967,12,Animal distal gut,feces,ERX3321294,12.9.28,12,gut metagenome,SAMEA5579040,Fecal_1,Fecal,D5,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294968,12,Animal distal gut,feces,ERX3321295,12.9.29,12,gut metagenome,SAMEA5579041,Fecal_1,Fecal,D8,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294969,12,Animal distal gut,feces,ERX3321296,12.9.30,12,gut metagenome,SAMEA5579042,Fecal_1,Fecal,D11,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294970,12,Animal distal gut,intestine environment,ERX3321297,12CEC,12,gut metagenome,SAMEA5579043,Tissue_1,Cecum,C12,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294971,12,Animal distal gut,intestine environment,ERX3321298,12DG,12,gut metagenome,SAMEA5579044,Tissue_1,Digestive_gland,G12,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294972,12,Animal proximal gut,intestine environment,ERX3321299,12ESO,12,gut metagenome,SAMEA5579045,Tissue_1,Esophagus,A12,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294973,12,Animal surface,organic material,ERX3321300,12GIL,12,fish metagenome,SAMEA5579046,Tissue_1,Gill,E12,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3294974,12,Animal distal gut,intestine environment,ERX3321301,12INT,12,gut metagenome,SAMEA5579047,Tissue_1,Intestine,D12,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294975,12,Animal corpus,organic material,ERX3321302,12KID,12,fish metagenome,SAMEA5579048,Tissue_1,Kidney,F12,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3294976,12,Animal surface,organic material,ERX3321303,12SKI,12,fish metagenome,SAMEA5579049,Tissue_1,Skin,H12,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3294977,12,Animal proximal gut,intestine environment,ERX3321304,12STO,12,gut metagenome,SAMEA5579050,Tissue_1,Stomach,B12,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
+ERR3294978,13,Animal distal gut,feces,ERX3321305,13.10.12,13,gut metagenome,SAMEA5579051,Fecal_3,Fecal,E2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294979,13,Animal distal gut,feces,ERX3321306,13.10.13,13,gut metagenome,SAMEA5579052,Fecal_3,Fecal,E5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294980,13,Animal distal gut,feces,ERX3321307,13.10.14,13,gut metagenome,SAMEA5579053,Fecal_3,Fecal,E8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294981,13,Animal distal gut,feces,ERX3321308,13.10.15,13,gut metagenome,SAMEA5579054,Fecal_3,Fecal,E11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294982,13,Animal distal gut,feces,ERX3321309,13.10.4,13,gut metagenome,SAMEA5579055,Fecal_2,Fecal,E2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294983,13,Animal distal gut,feces,ERX3321310,13.10.6,13,gut metagenome,SAMEA5579056,Fecal_2,Fecal,E5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294984,13,Animal distal gut,feces,ERX3321311,13.10.7,13,gut metagenome,SAMEA5579057,Fecal_2,Fecal,E8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294985,13,Animal distal gut,feces,ERX3321312,13.10.9,13,gut metagenome,SAMEA5579058,Fecal_2,Fecal,E11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3294986,13,Animal distal gut,feces,ERX3321313,13.9.27,13,gut metagenome,SAMEA5579059,Fecal_1,Fecal,E2,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294987,13,Animal distal gut,feces,ERX3321314,13.9.28,13,gut metagenome,SAMEA5579060,Fecal_1,Fecal,E5,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294988,13,Animal distal gut,feces,ERX3321315,13.9.29,13,gut metagenome,SAMEA5579061,Fecal_1,Fecal,E8,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294989,13,Animal distal gut,feces,ERX3321316,13.9.30,13,gut metagenome,SAMEA5579062,Fecal_1,Fecal,E11,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3294990,13,Animal distal gut,intestine environment,ERX3321317,13CEC,13,gut metagenome,SAMEA5579063,Tissue_2,Cecum,C1,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294991,13,Animal proximal gut,intestine environment,ERX3321318,13ESO,13,gut metagenome,SAMEA5579064,Tissue_2,Esophagus,A1,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294992,13,Animal surface,organic material,ERX3321319,13GIL,13,fish metagenome,SAMEA5579065,Tissue_2,Gill,E1,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3294993,13,Animal distal gut,intestine environment,ERX3321320,13INT,13,gut metagenome,SAMEA5579066,Tissue_2,Intestine,D1,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3294994,13,Animal corpus,organic material,ERX3321321,13KID,13,fish metagenome,SAMEA5579067,Tissue_2,Kidney,F1,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3294995,13,Animal surface,organic material,ERX3321322,13SKI,13,fish metagenome,SAMEA5579068,Tissue_2,Skin,H1,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3294996,13,Animal proximal gut,intestine environment,ERX3321323,13STO,13,gut metagenome,SAMEA5579069,Tissue_2,Stomach,B1,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
+ERR3294997,14,Animal distal gut,feces,ERX3321324,14.10.12,14,gut metagenome,SAMEA5579070,Fecal_3,Fecal,F2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294998,14,Animal distal gut,feces,ERX3321325,14.10.13,14,gut metagenome,SAMEA5579071,Fecal_3,Fecal,F5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3294999,14,Animal distal gut,feces,ERX3321326,14.10.14,14,gut metagenome,SAMEA5579072,Fecal_3,Fecal,F8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295000,14,Animal distal gut,feces,ERX3321327,14.10.15,14,gut metagenome,SAMEA5579073,Fecal_3,Fecal,F11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295001,14,Animal distal gut,feces,ERX3321328,14.10.4,14,gut metagenome,SAMEA5579074,Fecal_2,Fecal,F2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295002,14,Animal distal gut,feces,ERX3321329,14.10.6,14,gut metagenome,SAMEA5579075,Fecal_2,Fecal,F5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295003,14,Animal distal gut,feces,ERX3321330,14.10.7,14,gut metagenome,SAMEA5579076,Fecal_2,Fecal,F8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295004,14,Animal distal gut,feces,ERX3321331,14.10.9,14,gut metagenome,SAMEA5579077,Fecal_2,Fecal,F11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295005,14,Animal distal gut,feces,ERX3321332,14.9.27,14,gut metagenome,SAMEA5579078,Fecal_1,Fecal,F2,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295006,14,Animal distal gut,feces,ERX3321333,14.9.28,14,gut metagenome,SAMEA5579079,Fecal_1,Fecal,F5,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295007,14,Animal distal gut,feces,ERX3321334,14.9.29,14,gut metagenome,SAMEA5579080,Fecal_1,Fecal,F8,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295008,14,Animal distal gut,feces,ERX3321335,14.9.30,14,gut metagenome,SAMEA5579081,Fecal_1,Fecal,F11,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295009,14,Animal distal gut,intestine environment,ERX3321336,14CEC,14,gut metagenome,SAMEA5579082,Tissue_2,Cecum,C2,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295010,14,Animal proximal gut,intestine environment,ERX3321337,14ESO,14,gut metagenome,SAMEA5579083,Tissue_2,Esophagus,A2,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295011,14,Animal surface,organic material,ERX3321338,14GIL,14,fish metagenome,SAMEA5579084,Tissue_2,Gill,E2,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3295012,14,Animal distal gut,intestine environment,ERX3321339,14INT,14,gut metagenome,SAMEA5579085,Tissue_2,Intestine,D2,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295013,14,Animal corpus,organic material,ERX3321340,14KID,14,fish metagenome,SAMEA5579086,Tissue_2,Kidney,F2,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3295014,14,Animal surface,organic material,ERX3321341,14SKI,14,fish metagenome,SAMEA5579087,Tissue_2,Skin,H2,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3295015,14,Animal proximal gut,intestine environment,ERX3321342,14STO,14,gut metagenome,SAMEA5579088,Tissue_2,Stomach,B2,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
+ERR3295016,15,Animal distal gut,feces,ERX3321343,15.10.12,15,gut metagenome,SAMEA5579089,Fecal_3,Fecal,G2,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295017,15,Animal distal gut,feces,ERX3321344,15.10.13,15,gut metagenome,SAMEA5579090,Fecal_3,Fecal,G5,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295018,15,Animal distal gut,feces,ERX3321345,15.10.15,15,gut metagenome,SAMEA5579091,Fecal_3,Fecal,G11,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295019,15,Animal distal gut,feces,ERX3321346,15.10.4,15,gut metagenome,SAMEA5579092,Fecal_2,Fecal,G2,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295020,15,Animal distal gut,feces,ERX3321347,15.10.6,15,gut metagenome,SAMEA5579093,Fecal_2,Fecal,G5,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295021,15,Animal distal gut,feces,ERX3321348,15.10.7,15,gut metagenome,SAMEA5579094,Fecal_2,Fecal,G8,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295022,15,Animal distal gut,feces,ERX3321349,15.10.9,15,gut metagenome,SAMEA5579095,Fecal_2,Fecal,G11,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295023,15,Animal distal gut,feces,ERX3321350,15.9.27,15,gut metagenome,SAMEA5579096,Fecal_1,Fecal,G2,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295024,15,Animal distal gut,feces,ERX3321351,15.9.28,15,gut metagenome,SAMEA5579097,Fecal_1,Fecal,G5,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295025,15,Animal distal gut,feces,ERX3321352,15.9.29,15,gut metagenome,SAMEA5579098,Fecal_1,Fecal,G8,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295026,15,Animal distal gut,feces,ERX3321353,15.9.30,15,gut metagenome,SAMEA5579099,Fecal_1,Fecal,G11,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295027,15,Animal distal gut,intestine environment,ERX3321354,15CEC,15,gut metagenome,SAMEA5579100,Tissue_2,Cecum,C3,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295028,15,Animal proximal gut,intestine environment,ERX3321355,15ESO,15,gut metagenome,SAMEA5579101,Tissue_2,Esophagus,A3,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295029,15,Animal surface,organic material,ERX3321356,15GIL,15,fish metagenome,SAMEA5579102,Tissue_2,Gill,E3,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295030,15,Animal distal gut,intestine environment,ERX3321357,15INT,15,gut metagenome,SAMEA5579103,Tissue_2,Intestine,D3,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295031,15,Animal corpus,organic material,ERX3321358,15KID,15,fish metagenome,SAMEA5579104,Tissue_2,Kidney,F3,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295032,15,Animal surface,organic material,ERX3321359,15SKI,15,fish metagenome,SAMEA5579105,Tissue_2,Skin,H3,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295033,15,Animal proximal gut,intestine environment,ERX3321360,15STO,15,gut metagenome,SAMEA5579106,Tissue_2,Stomach,B3,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295034,16,Animal distal gut,feces,ERX3321361,16.10.12,16,gut metagenome,SAMEA5579107,Fecal_3,Fecal,H2,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295035,16,Animal distal gut,feces,ERX3321362,16.10.13,16,gut metagenome,SAMEA5579108,Fecal_3,Fecal,H5,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295036,16,Animal distal gut,feces,ERX3321363,16.10.15,16,gut metagenome,SAMEA5579109,Fecal_3,Fecal,H11,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295037,16,Animal distal gut,feces,ERX3321364,16.10.4,16,gut metagenome,SAMEA5579110,Fecal_2,Fecal,H2,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295038,16,Animal distal gut,feces,ERX3321365,16.10.6,16,gut metagenome,SAMEA5579111,Fecal_2,Fecal,H5,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295039,16,Animal distal gut,feces,ERX3321366,16.10.7,16,gut metagenome,SAMEA5579112,Fecal_2,Fecal,H8,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295040,16,Animal distal gut,feces,ERX3321367,16.10.9,16,gut metagenome,SAMEA5579113,Fecal_2,Fecal,H11,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295041,16,Animal distal gut,feces,ERX3321368,16.9.27,16,gut metagenome,SAMEA5579114,Fecal_1,Fecal,H2,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295042,16,Animal distal gut,feces,ERX3321369,16.9.28,16,gut metagenome,SAMEA5579115,Fecal_1,Fecal,H5,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295043,16,Animal distal gut,feces,ERX3321370,16.9.29,16,gut metagenome,SAMEA5579116,Fecal_1,Fecal,H8,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295044,16,Animal distal gut,feces,ERX3321371,16.9.30,16,gut metagenome,SAMEA5579117,Fecal_1,Fecal,H11,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295045,16,Animal distal gut,intestine environment,ERX3321372,16CEC,16,gut metagenome,SAMEA5579118,Tissue_2,Cecum,C4,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295046,16,Animal proximal gut,intestine environment,ERX3321373,16ESO,16,gut metagenome,SAMEA5579119,Tissue_2,Esophagus,A4,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295047,16,Animal surface,organic material,ERX3321374,16GIL,16,fish metagenome,SAMEA5579120,Tissue_2,Gill,E4,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295048,16,Animal distal gut,intestine environment,ERX3321375,16INT,16,gut metagenome,SAMEA5579121,Tissue_2,Intestine,D4,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295049,16,Animal corpus,organic material,ERX3321376,16KID,16,fish metagenome,SAMEA5579122,Tissue_2,Kidney,F4,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295050,16,Animal surface,organic material,ERX3321377,16SKI,16,fish metagenome,SAMEA5579123,Tissue_2,Skin,H4,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295051,16,Animal proximal gut,intestine environment,ERX3321378,16STO,16,gut metagenome,SAMEA5579124,Tissue_2,Stomach,B4,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295052,17,Animal distal gut,feces,ERX3321379,17.10.12,17,gut metagenome,SAMEA5579125,Fecal_3,Fecal,A3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295053,17,Animal distal gut,feces,ERX3321380,17.10.13,17,gut metagenome,SAMEA5579126,Fecal_3,Fecal,A6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295054,17,Animal distal gut,feces,ERX3321381,17.10.14,17,gut metagenome,SAMEA5579127,Fecal_3,Fecal,A9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295055,17,Animal distal gut,feces,ERX3321382,17.10.15,17,gut metagenome,SAMEA5579128,Fecal_3,Fecal,A12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295056,17,Animal distal gut,feces,ERX3321383,17.10.4,17,gut metagenome,SAMEA5579129,Fecal_2,Fecal,A3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295057,17,Animal distal gut,feces,ERX3321384,17.10.6,17,gut metagenome,SAMEA5579130,Fecal_2,Fecal,A6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295058,17,Animal distal gut,feces,ERX3321385,17.10.7,17,gut metagenome,SAMEA5579131,Fecal_2,Fecal,A9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295059,17,Animal distal gut,feces,ERX3321386,17.10.9,17,gut metagenome,SAMEA5579132,Fecal_2,Fecal,A12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295060,17,Animal distal gut,feces,ERX3321387,17.9.27,17,gut metagenome,SAMEA5579133,Fecal_1,Fecal,A3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295061,17,Animal distal gut,feces,ERX3321388,17.9.28,17,gut metagenome,SAMEA5579134,Fecal_1,Fecal,A6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295062,17,Animal distal gut,feces,ERX3321389,17.9.29,17,gut metagenome,SAMEA5579135,Fecal_1,Fecal,A9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295063,17,Animal distal gut,feces,ERX3321390,17.9.30,17,gut metagenome,SAMEA5579136,Fecal_1,Fecal,A12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295064,17,Animal proximal gut,intestine environment,ERX3321391,17ESO,17,gut metagenome,SAMEA5579137,Tissue_2,Esophagus,A5,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295065,17,Animal surface,organic material,ERX3321392,17GIL,17,fish metagenome,SAMEA5579138,Tissue_2,Gill,E5,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295066,17,Animal distal gut,intestine environment,ERX3321393,17INT,17,gut metagenome,SAMEA5579139,Tissue_2,Intestine,D5,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295067,17,Animal corpus,organic material,ERX3321394,17KID,17,fish metagenome,SAMEA5579140,Tissue_2,Kidney,F5,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295068,17,Animal surface,organic material,ERX3321395,17SKI,17,fish metagenome,SAMEA5579141,Tissue_2,Skin,H5,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295069,17,Animal proximal gut,intestine environment,ERX3321396,17STO,17,gut metagenome,SAMEA5579142,Tissue_2,Stomach,B5,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295070,18,Animal distal gut,feces,ERX3321397,18.10.12,18,gut metagenome,SAMEA5579143,Fecal_3,Fecal,B3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295071,18,Animal distal gut,feces,ERX3321398,18.10.13,18,gut metagenome,SAMEA5579144,Fecal_3,Fecal,B6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295072,18,Animal distal gut,feces,ERX3321399,18.10.14,18,gut metagenome,SAMEA5579145,Fecal_3,Fecal,B9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295073,18,Animal distal gut,feces,ERX3321400,18.10.15,18,gut metagenome,SAMEA5579146,Fecal_3,Fecal,B12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295074,18,Animal distal gut,feces,ERX3321401,18.10.4,18,gut metagenome,SAMEA5579147,Fecal_2,Fecal,B3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295075,18,Animal distal gut,feces,ERX3321402,18.10.6,18,gut metagenome,SAMEA5579148,Fecal_2,Fecal,B6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295076,18,Animal distal gut,feces,ERX3321403,18.10.7,18,gut metagenome,SAMEA5579149,Fecal_2,Fecal,B9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295077,18,Animal distal gut,feces,ERX3321404,18.10.9,18,gut metagenome,SAMEA5579150,Fecal_2,Fecal,B12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295078,18,Animal distal gut,feces,ERX3321405,18.9.27,18,gut metagenome,SAMEA5579151,Fecal_1,Fecal,B3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295079,18,Animal distal gut,feces,ERX3321406,18.9.28,18,gut metagenome,SAMEA5579152,Fecal_1,Fecal,B6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295080,18,Animal distal gut,feces,ERX3321407,18.9.29,18,gut metagenome,SAMEA5579153,Fecal_1,Fecal,B9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295081,18,Animal distal gut,feces,ERX3321408,18.9.30,18,gut metagenome,SAMEA5579154,Fecal_1,Fecal,B12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295082,18,Animal distal gut,intestine environment,ERX3321409,18CEC,18,gut metagenome,SAMEA5579155,Tissue_2,Cecum,C6,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295083,18,Animal proximal gut,intestine environment,ERX3321410,18ESO,18,gut metagenome,SAMEA5579156,Tissue_2,Esophagus,A6,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295084,18,Animal surface,organic material,ERX3321411,18GIL,18,fish metagenome,SAMEA5579157,Tissue_2,Gill,E6,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295085,18,Animal distal gut,intestine environment,ERX3321412,18INT,18,gut metagenome,SAMEA5579158,Tissue_2,Intestine,D6,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295086,18,Animal corpus,organic material,ERX3321413,18KID,18,fish metagenome,SAMEA5579159,Tissue_2,Kidney,F6,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295087,18,Animal surface,organic material,ERX3321414,18SKI,18,fish metagenome,SAMEA5579160,Tissue_2,Skin,H6,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295088,18,Animal proximal gut,intestine environment,ERX3321415,18STO,18,gut metagenome,SAMEA5579161,Tissue_2,Stomach,B6,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295089,19,Animal distal gut,feces,ERX3321416,19.10.12,19,gut metagenome,SAMEA5579162,Fecal_3,Fecal,C3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295090,19,Animal distal gut,feces,ERX3321417,19.10.13,19,gut metagenome,SAMEA5579163,Fecal_3,Fecal,C6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295091,19,Animal distal gut,feces,ERX3321418,19.10.14,19,gut metagenome,SAMEA5579164,Fecal_3,Fecal,C9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295092,19,Animal distal gut,feces,ERX3321419,19.10.15,19,gut metagenome,SAMEA5579165,Fecal_3,Fecal,C12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295093,19,Animal distal gut,feces,ERX3321420,19.10.4,19,gut metagenome,SAMEA5579166,Fecal_2,Fecal,C3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295094,19,Animal distal gut,feces,ERX3321421,19.10.6,19,gut metagenome,SAMEA5579167,Fecal_2,Fecal,C6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295095,19,Animal distal gut,feces,ERX3321422,19.10.7,19,gut metagenome,SAMEA5579168,Fecal_2,Fecal,C9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295096,19,Animal distal gut,feces,ERX3321423,19.10.9,19,gut metagenome,SAMEA5579169,Fecal_2,Fecal,C12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295097,19,Animal distal gut,feces,ERX3321424,19.9.27,19,gut metagenome,SAMEA5579170,Fecal_1,Fecal,C3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295098,19,Animal distal gut,feces,ERX3321425,19.9.28,19,gut metagenome,SAMEA5579171,Fecal_1,Fecal,C6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295099,19,Animal distal gut,feces,ERX3321426,19.9.29,19,gut metagenome,SAMEA5579172,Fecal_1,Fecal,C9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295100,19,Animal distal gut,feces,ERX3321427,19.9.30,19,gut metagenome,SAMEA5579173,Fecal_1,Fecal,C12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295101,19,Animal distal gut,intestine environment,ERX3321428,19CEC,19,gut metagenome,SAMEA5579174,Tissue_2,Cecum,C7,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295102,19,Animal proximal gut,intestine environment,ERX3321429,19ESO,19,gut metagenome,SAMEA5579175,Tissue_2,Esophagus,A7,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295103,19,Animal distal gut,intestine environment,ERX3321430,19INT,19,gut metagenome,SAMEA5579176,Tissue_2,Intestine,D7,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295104,19,Animal corpus,organic material,ERX3321431,19KID,19,fish metagenome,SAMEA5579177,Tissue_2,Kidney,F7,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295105,19,Animal surface,organic material,ERX3321432,19SKI,19,fish metagenome,SAMEA5579178,Tissue_2,Skin,H7,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295106,19,Animal proximal gut,intestine environment,ERX3321433,19STO,19,gut metagenome,SAMEA5579179,Tissue_2,Stomach,B7,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295107,1,Animal distal gut,intestine environment,ERX3321434,1CEC,1,gut metagenome,SAMEA5579180,Tissue_1,Cecum,D1,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295108,1,Animal distal gut,intestine environment,ERX3321435,1DG,1,gut metagenome,SAMEA5579181,Tissue_1,Digestive_gland,G1,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295109,1,Animal proximal gut,intestine environment,ERX3321436,1ESO,1,gut metagenome,SAMEA5579182,Tissue_1,Esophagus,A1,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295110,1,Animal surface,organic material,ERX3321437,1GIL,1,fish metagenome,SAMEA5579183,Tissue_1,Gill,E1,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,1,Post-treatment,Treatment
+ERR3295111,1,Animal distal gut,intestine environment,ERX3321438,1INT,1,gut metagenome,SAMEA5579184,Tissue_1,Intestine,C1,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295112,1,Animal corpus,organic material,ERX3321439,1KID,1,fish metagenome,SAMEA5579185,Tissue_1,Kidney,F1,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,1,Post-treatment,Treatment
+ERR3295113,1,Animal surface,organic material,ERX3321440,1SKI,1,fish metagenome,SAMEA5579186,Tissue_1,Skin,H1,UBERON:skin,UBERON:mucus,UBERON:skin,1,Post-treatment,Treatment
+ERR3295114,1,Animal proximal gut,intestine environment,ERX3321441,1STO,1,gut metagenome,SAMEA5579187,Tissue_1,Stomach,B1,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,1,Post-treatment,Treatment
+ERR3295115,2,Animal distal gut,feces,ERX3321442,2.10.12,2,gut metagenome,SAMEA5579188,Fecal_3,Fecal,B1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295116,2,Animal distal gut,feces,ERX3321443,2.10.13,2,gut metagenome,SAMEA5579189,Fecal_3,Fecal,B4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295117,2,Animal distal gut,feces,ERX3321444,2.10.14,2,gut metagenome,SAMEA5579190,Fecal_3,Fecal,B7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295118,2,Animal distal gut,feces,ERX3321445,2.10.15,2,gut metagenome,SAMEA5579191,Fecal_3,Fecal,B10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295119,2,Animal distal gut,feces,ERX3321446,2.10.4,2,gut metagenome,SAMEA5579192,Fecal_2,Fecal,B1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295120,2,Animal distal gut,feces,ERX3321447,2.10.6,2,gut metagenome,SAMEA5579193,Fecal_2,Fecal,B4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295121,2,Animal distal gut,feces,ERX3321448,2.10.7,2,gut metagenome,SAMEA5579194,Fecal_2,Fecal,B7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295122,2,Animal distal gut,feces,ERX3321449,2.10.9,2,gut metagenome,SAMEA5579195,Fecal_2,Fecal,B10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295123,2,Animal distal gut,feces,ERX3321450,2.9.27,2,gut metagenome,SAMEA5579196,Fecal_1,Fecal,B1,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295124,2,Animal distal gut,feces,ERX3321451,2.9.28,2,gut metagenome,SAMEA5579197,Fecal_1,Fecal,B4,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295125,2,Animal distal gut,feces,ERX3321452,2.9.29,2,gut metagenome,SAMEA5579198,Fecal_1,Fecal,B7,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295126,2,Animal distal gut,feces,ERX3321453,2.9.30,2,gut metagenome,SAMEA5579199,Fecal_1,Fecal,B10,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295127,20,Animal distal gut,feces,ERX3321454,20.10.12,20,gut metagenome,SAMEA5579200,Fecal_3,Fecal,D3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295128,20,Animal distal gut,feces,ERX3321455,20.10.13,20,gut metagenome,SAMEA5579201,Fecal_3,Fecal,D6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295129,20,Animal distal gut,feces,ERX3321456,20.10.14,20,gut metagenome,SAMEA5579202,Fecal_3,Fecal,D9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295130,20,Animal distal gut,feces,ERX3321457,20.10.15,20,gut metagenome,SAMEA5579203,Fecal_3,Fecal,D12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295131,20,Animal distal gut,feces,ERX3321458,20.10.4,20,gut metagenome,SAMEA5579204,Fecal_2,Fecal,D3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295132,20,Animal distal gut,feces,ERX3321459,20.10.6,20,gut metagenome,SAMEA5579205,Fecal_2,Fecal,D6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295133,20,Animal distal gut,feces,ERX3321460,20.10.7,20,gut metagenome,SAMEA5579206,Fecal_2,Fecal,D9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295134,20,Animal distal gut,feces,ERX3321461,20.10.9,20,gut metagenome,SAMEA5579207,Fecal_2,Fecal,D12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295135,20,Animal distal gut,feces,ERX3321462,20.9.27,20,gut metagenome,SAMEA5579208,Fecal_1,Fecal,D3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295136,20,Animal distal gut,feces,ERX3321463,20.9.28,20,gut metagenome,SAMEA5579209,Fecal_1,Fecal,D6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295137,20,Animal distal gut,feces,ERX3321464,20.9.29,20,gut metagenome,SAMEA5579210,Fecal_1,Fecal,D9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295138,20,Animal distal gut,feces,ERX3321465,20.9.30,20,gut metagenome,SAMEA5579211,Fecal_1,Fecal,D12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295139,20,Animal distal gut,intestine environment,ERX3321466,20CEC,20,gut metagenome,SAMEA5579212,Tissue_2,Cecum,C8,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295140,20,Animal surface,organic material,ERX3321467,20GIL,20,fish metagenome,SAMEA5579213,Tissue_2,Gill,E8,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295141,20,Animal distal gut,intestine environment,ERX3321468,20INT,20,gut metagenome,SAMEA5579214,Tissue_2,Intestine,D8,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295142,20,Animal corpus,organic material,ERX3321469,20KID,20,fish metagenome,SAMEA5579215,Tissue_2,Kidney,F8,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295143,20,Animal surface,organic material,ERX3321470,20SKI,20,fish metagenome,SAMEA5579216,Tissue_2,Skin,H8,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295144,20,Animal proximal gut,intestine environment,ERX3321471,20STO,20,gut metagenome,SAMEA5579217,Tissue_2,Stomach,B8,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295145,21,Animal distal gut,feces,ERX3321472,21.10.12,21,gut metagenome,SAMEA5579218,Fecal_3,Fecal,E3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295146,21,Animal distal gut,feces,ERX3321473,21.10.13,21,gut metagenome,SAMEA5579219,Fecal_3,Fecal,E6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295147,21,Animal distal gut,feces,ERX3321474,21.10.14,21,gut metagenome,SAMEA5579220,Fecal_3,Fecal,E9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295148,21,Animal distal gut,feces,ERX3321475,21.10.15,21,gut metagenome,SAMEA5579221,Fecal_3,Fecal,E12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295149,21,Animal distal gut,feces,ERX3321476,21.10.4,21,gut metagenome,SAMEA5579222,Fecal_2,Fecal,E3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295150,21,Animal distal gut,feces,ERX3321477,21.10.6,21,gut metagenome,SAMEA5579223,Fecal_2,Fecal,E6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295151,21,Animal distal gut,feces,ERX3321478,21.10.7,21,gut metagenome,SAMEA5579224,Fecal_2,Fecal,E9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295152,21,Animal distal gut,feces,ERX3321479,21.10.9,21,gut metagenome,SAMEA5579225,Fecal_2,Fecal,E12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295153,21,Animal distal gut,feces,ERX3321480,21.9.27,21,gut metagenome,SAMEA5579226,Fecal_1,Fecal,E3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295154,21,Animal distal gut,feces,ERX3321481,21.9.28,21,gut metagenome,SAMEA5579227,Fecal_1,Fecal,E6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295155,21,Animal distal gut,feces,ERX3321482,21.9.29,21,gut metagenome,SAMEA5579228,Fecal_1,Fecal,E9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295156,21,Animal distal gut,feces,ERX3321483,21.9.30,21,gut metagenome,SAMEA5579229,Fecal_1,Fecal,E12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295157,21,Animal distal gut,intestine environment,ERX3321484,21CEC,21,gut metagenome,SAMEA5579230,Tissue_2,Cecum,C9,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295158,21,Animal proximal gut,intestine environment,ERX3321485,21ESO,21,gut metagenome,SAMEA5579231,Tissue_2,Esophagus,A9,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295159,21,Animal distal gut,intestine environment,ERX3321486,21INT,21,gut metagenome,SAMEA5579232,Tissue_2,Intestine,D9,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295160,21,Animal corpus,organic material,ERX3321487,21KID,21,fish metagenome,SAMEA5579233,Tissue_2,Kidney,F9,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295161,21,Animal surface,organic material,ERX3321488,21SKI,21,fish metagenome,SAMEA5579234,Tissue_2,Skin,H9,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295162,21,Animal proximal gut,intestine environment,ERX3321489,21STO,21,gut metagenome,SAMEA5579235,Tissue_2,Stomach,B9,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295163,22,Animal distal gut,feces,ERX3321490,22.10.12,22,gut metagenome,SAMEA5579236,Fecal_3,Fecal,F3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295164,22,Animal distal gut,feces,ERX3321491,22.10.13,22,gut metagenome,SAMEA5579237,Fecal_3,Fecal,F6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295165,22,Animal distal gut,feces,ERX3321492,22.10.14,22,gut metagenome,SAMEA5579238,Fecal_3,Fecal,F9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295166,22,Animal distal gut,feces,ERX3321493,22.10.15,22,gut metagenome,SAMEA5579239,Fecal_3,Fecal,F12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295167,22,Animal distal gut,feces,ERX3321494,22.10.4,22,gut metagenome,SAMEA5579240,Fecal_2,Fecal,F3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295168,22,Animal distal gut,feces,ERX3321495,22.10.6,22,gut metagenome,SAMEA5579241,Fecal_2,Fecal,F6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295169,22,Animal distal gut,feces,ERX3321496,22.10.7,22,gut metagenome,SAMEA5579242,Fecal_2,Fecal,F9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295170,22,Animal distal gut,feces,ERX3321497,22.10.9,22,gut metagenome,SAMEA5579243,Fecal_2,Fecal,F12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295171,22,Animal distal gut,feces,ERX3321498,22.9.27,22,gut metagenome,SAMEA5579244,Fecal_1,Fecal,F3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295172,22,Animal distal gut,feces,ERX3321499,22.9.28,22,gut metagenome,SAMEA5579245,Fecal_1,Fecal,F6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295173,22,Animal distal gut,feces,ERX3321500,22.9.29,22,gut metagenome,SAMEA5579246,Fecal_1,Fecal,F9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295174,22,Animal distal gut,feces,ERX3321501,22.9.30,22,gut metagenome,SAMEA5579247,Fecal_1,Fecal,F12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295175,22,Animal distal gut,intestine environment,ERX3321502,22CEC,22,gut metagenome,SAMEA5579248,Tissue_2,Cecum,C10,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295176,22,Animal proximal gut,intestine environment,ERX3321503,22ESO,22,gut metagenome,SAMEA5579249,Tissue_2,Esophagus,A10,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295177,22,Animal surface,organic material,ERX3321504,22GIL,22,fish metagenome,SAMEA5579250,Tissue_2,Gill,E10,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295178,22,Animal distal gut,intestine environment,ERX3321505,22INT,22,gut metagenome,SAMEA5579251,Tissue_2,Intestine,D10,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295179,22,Animal corpus,organic material,ERX3321506,22KID,22,fish metagenome,SAMEA5579252,Tissue_2,Kidney,F10,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295180,22,Animal surface,organic material,ERX3321507,22SKI,22,fish metagenome,SAMEA5579253,Tissue_2,Skin,H10,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295181,22,Animal proximal gut,intestine environment,ERX3321508,22STO,22,gut metagenome,SAMEA5579254,Tissue_2,Stomach,B10,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295182,23,Animal distal gut,feces,ERX3321509,23.10.12,23,gut metagenome,SAMEA5579255,Fecal_3,Fecal,G3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295183,23,Animal distal gut,feces,ERX3321510,23.10.13,23,gut metagenome,SAMEA5579256,Fecal_3,Fecal,G6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295184,23,Animal distal gut,feces,ERX3321511,23.10.14,23,gut metagenome,SAMEA5579257,Fecal_3,Fecal,G9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295185,23,Animal distal gut,feces,ERX3321512,23.10.15,23,gut metagenome,SAMEA5579258,Fecal_3,Fecal,G12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295186,23,Animal distal gut,feces,ERX3321513,23.10.4,23,gut metagenome,SAMEA5579259,Fecal_2,Fecal,G3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295187,23,Animal distal gut,feces,ERX3321514,23.10.6,23,gut metagenome,SAMEA5579260,Fecal_2,Fecal,G6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295188,23,Animal distal gut,feces,ERX3321515,23.10.7,23,gut metagenome,SAMEA5579261,Fecal_2,Fecal,G9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295189,23,Animal distal gut,feces,ERX3321516,23.10.9,23,gut metagenome,SAMEA5579262,Fecal_2,Fecal,G12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295190,23,Animal distal gut,feces,ERX3321517,23.9.27,23,gut metagenome,SAMEA5579263,Fecal_1,Fecal,G3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295191,23,Animal distal gut,feces,ERX3321518,23.9.28,23,gut metagenome,SAMEA5579264,Fecal_1,Fecal,G6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295192,23,Animal distal gut,feces,ERX3321519,23.9.29,23,gut metagenome,SAMEA5579265,Fecal_1,Fecal,G9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295193,23,Animal distal gut,feces,ERX3321520,23.9.30,23,gut metagenome,SAMEA5579266,Fecal_1,Fecal,G12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295194,23,Animal distal gut,intestine environment,ERX3321521,23CEC,23,gut metagenome,SAMEA5579267,Tissue_2,Cecum,C11,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295195,23,Animal proximal gut,intestine environment,ERX3321522,23ESO,23,gut metagenome,SAMEA5579268,Tissue_2,Esophagus,A11,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295196,23,Animal surface,organic material,ERX3321523,23GIL,23,fish metagenome,SAMEA5579269,Tissue_2,Gill,E11,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295197,23,Animal distal gut,intestine environment,ERX3321524,23INT,23,gut metagenome,SAMEA5579270,Tissue_2,Intestine,D11,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295198,23,Animal corpus,organic material,ERX3321525,23KID,23,fish metagenome,SAMEA5579271,Tissue_2,Kidney,F11,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,3,Post-treatment,Treatment
+ERR3295199,23,Animal surface,organic material,ERX3321526,23SKI,23,fish metagenome,SAMEA5579272,Tissue_2,Skin,H11,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295200,23,Animal proximal gut,intestine environment,ERX3321527,23STO,23,gut metagenome,SAMEA5579273,Tissue_2,Stomach,B11,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295201,24,Animal distal gut,feces,ERX3321528,24.10.12,24,gut metagenome,SAMEA5579274,Fecal_3,Fecal,H3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295202,24,Animal distal gut,feces,ERX3321529,24.10.13,24,gut metagenome,SAMEA5579275,Fecal_3,Fecal,H6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295203,24,Animal distal gut,feces,ERX3321530,24.10.14,24,gut metagenome,SAMEA5579276,Fecal_3,Fecal,H9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295204,24,Animal distal gut,feces,ERX3321531,24.10.15,24,gut metagenome,SAMEA5579277,Fecal_3,Fecal,H12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment2,Treatment
+ERR3295205,24,Animal distal gut,feces,ERX3321532,24.10.4,24,gut metagenome,SAMEA5579278,Fecal_2,Fecal,H3,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295206,24,Animal distal gut,feces,ERX3321533,24.10.6,24,gut metagenome,SAMEA5579279,Fecal_2,Fecal,H6,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295207,24,Animal distal gut,feces,ERX3321534,24.10.7,24,gut metagenome,SAMEA5579280,Fecal_2,Fecal,H9,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295208,24,Animal distal gut,feces,ERX3321535,24.10.9,24,gut metagenome,SAMEA5579281,Fecal_2,Fecal,H12,UBERON:feces,UBERON:feces,UBERON:feces,3,Treatment,Treatment
+ERR3295209,24,Animal distal gut,feces,ERX3321536,24.9.27,24,gut metagenome,SAMEA5579282,Fecal_1,Fecal,H3,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295210,24,Animal distal gut,feces,ERX3321537,24.9.28,24,gut metagenome,SAMEA5579283,Fecal_1,Fecal,H6,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295211,24,Animal distal gut,feces,ERX3321538,24.9.29,24,gut metagenome,SAMEA5579284,Fecal_1,Fecal,H9,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295212,24,Animal distal gut,feces,ERX3321539,24.9.30,24,gut metagenome,SAMEA5579285,Fecal_1,Fecal,H12,UBERON:feces,UBERON:feces,UBERON:feces,3,Pre-treatment,Treatment
+ERR3295213,24,Animal distal gut,intestine environment,ERX3321540,24CEC,24,gut metagenome,SAMEA5579286,Tissue_2,Cecum,C12,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295214,24,Animal proximal gut,intestine environment,ERX3321541,24ESO,24,gut metagenome,SAMEA5579287,Tissue_2,Esophagus,A12,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295215,24,Animal surface,organic material,ERX3321542,24GIL,24,fish metagenome,SAMEA5579288,Tissue_2,Gill,E12,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,3,Post-treatment,Treatment
+ERR3295216,24,Animal distal gut,intestine environment,ERX3321543,24INT,24,gut metagenome,SAMEA5579289,Tissue_2,Intestine,D12,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,3,Post-treatment,Treatment
+ERR3295217,24,Animal surface,organic material,ERX3321544,24SKI,24,fish metagenome,SAMEA5579290,Tissue_2,Skin,H12,UBERON:skin,UBERON:mucus,UBERON:skin,3,Post-treatment,Treatment
+ERR3295218,24,Animal proximal gut,intestine environment,ERX3321545,24STO,24,gut metagenome,SAMEA5579291,Tissue_2,Stomach,B12,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,3,Post-treatment,Treatment
+ERR3295219,2,Animal distal gut,intestine environment,ERX3321546,2CEC,2,gut metagenome,SAMEA5579292,Tissue_1,Cecum,C2,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295220,2,Animal proximal gut,intestine environment,ERX3321547,2ESO,2,gut metagenome,SAMEA5579293,Tissue_1,Esophagus,A2,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295221,2,Animal surface,organic material,ERX3321548,2GIL,2,fish metagenome,SAMEA5579294,Tissue_1,Gill,E2,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,1,Post-treatment,Treatment
+ERR3295222,2,Animal distal gut,intestine environment,ERX3321549,2INT,2,gut metagenome,SAMEA5579295,Tissue_1,Intestine,D2,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295223,2,Animal corpus,organic material,ERX3321550,2KID,2,fish metagenome,SAMEA5579296,Tissue_1,Kidney,F2,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,1,Post-treatment,Treatment
+ERR3295224,2,Animal surface,organic material,ERX3321551,2SKI,2,fish metagenome,SAMEA5579297,Tissue_1,Skin,H2,UBERON:skin,UBERON:mucus,UBERON:skin,1,Post-treatment,Treatment
+ERR3295225,2,Animal proximal gut,intestine environment,ERX3321552,2STO,2,gut metagenome,SAMEA5579298,Tissue_1,Stomach,B2,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,1,Post-treatment,Treatment
+ERR3295226,3,Animal distal gut,feces,ERX3321553,3.10.12,3,gut metagenome,SAMEA5579299,Fecal_3,Fecal,C1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295227,3,Animal distal gut,feces,ERX3321554,3.10.13,3,gut metagenome,SAMEA5579300,Fecal_3,Fecal,C4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295228,3,Animal distal gut,feces,ERX3321555,3.10.14,3,gut metagenome,SAMEA5579301,Fecal_3,Fecal,C7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295229,3,Animal distal gut,feces,ERX3321556,3.10.15,3,gut metagenome,SAMEA5579302,Fecal_3,Fecal,C10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295230,3,Animal distal gut,feces,ERX3321557,3.10.4,3,gut metagenome,SAMEA5579303,Fecal_2,Fecal,C1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295231,3,Animal distal gut,feces,ERX3321558,3.10.6,3,gut metagenome,SAMEA5579304,Fecal_2,Fecal,C4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295232,3,Animal distal gut,feces,ERX3321559,3.10.7,3,gut metagenome,SAMEA5579305,Fecal_2,Fecal,C7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295233,3,Animal distal gut,feces,ERX3321560,3.10.9,3,gut metagenome,SAMEA5579306,Fecal_2,Fecal,C10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295234,3,Animal distal gut,feces,ERX3321561,3.9.27,3,gut metagenome,SAMEA5579307,Fecal_1,Fecal,C1,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295235,3,Animal distal gut,feces,ERX3321562,3.9.28,3,gut metagenome,SAMEA5579308,Fecal_1,Fecal,C4,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295236,3,Animal distal gut,feces,ERX3321563,3.9.29,3,gut metagenome,SAMEA5579309,Fecal_1,Fecal,C7,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295237,3,Animal distal gut,feces,ERX3321564,3.9.30,3,gut metagenome,SAMEA5579310,Fecal_1,Fecal,C10,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295238,3,Animal distal gut,intestine environment,ERX3321565,3CEC,3,gut metagenome,SAMEA5579311,Tissue_1,Cecum,C3,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295239,3,Animal proximal gut,intestine environment,ERX3321566,3ESO,3,gut metagenome,SAMEA5579312,Tissue_1,Esophagus,A3,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295240,3,Animal surface,organic material,ERX3321567,3GIL,3,fish metagenome,SAMEA5579313,Tissue_1,Gill,E3,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,1,Post-treatment,Treatment
+ERR3295241,3,Animal distal gut,intestine environment,ERX3321568,3INT,3,gut metagenome,SAMEA5579314,Tissue_1,Intestine,D3,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295242,3,Animal corpus,organic material,ERX3321569,3KID,3,fish metagenome,SAMEA5579315,Tissue_1,Kidney,F3,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,1,Post-treatment,Treatment
+ERR3295243,3,Animal surface,organic material,ERX3321570,3SKI,3,fish metagenome,SAMEA5579316,Tissue_1,Skin,H3,UBERON:skin,UBERON:mucus,UBERON:skin,1,Post-treatment,Treatment
+ERR3295244,3,Animal proximal gut,intestine environment,ERX3321571,3STO,3,gut metagenome,SAMEA5579317,Tissue_1,Stomach,B3,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,1,Post-treatment,Treatment
+ERR3295245,4,Animal distal gut,feces,ERX3321572,4.10.12,4,gut metagenome,SAMEA5579318,Fecal_3,Fecal,D1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295246,4,Animal distal gut,feces,ERX3321573,4.10.13,4,gut metagenome,SAMEA5579319,Fecal_3,Fecal,D4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295247,4,Animal distal gut,feces,ERX3321574,4.10.14,4,gut metagenome,SAMEA5579320,Fecal_3,Fecal,D7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295248,4,Animal distal gut,feces,ERX3321575,4.10.15,4,gut metagenome,SAMEA5579321,Fecal_3,Fecal,D10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295249,4,Animal distal gut,feces,ERX3321576,4.10.4,4,gut metagenome,SAMEA5579322,Fecal_2,Fecal,D1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295250,4,Animal distal gut,feces,ERX3321577,4.10.6,4,gut metagenome,SAMEA5579323,Fecal_2,Fecal,D4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295251,4,Animal distal gut,feces,ERX3321578,4.10.7,4,gut metagenome,SAMEA5579324,Fecal_2,Fecal,D7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295252,4,Animal distal gut,feces,ERX3321579,4.10.9,4,gut metagenome,SAMEA5579325,Fecal_2,Fecal,D10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295253,4,Animal distal gut,feces,ERX3321580,4.9.27,4,gut metagenome,SAMEA5579326,Fecal_1,Fecal,D1,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295254,4,Animal distal gut,feces,ERX3321581,4.9.28,4,gut metagenome,SAMEA5579327,Fecal_1,Fecal,D4,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295255,4,Animal distal gut,feces,ERX3321582,4.9.29,4,gut metagenome,SAMEA5579328,Fecal_1,Fecal,D7,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295256,4,Animal distal gut,feces,ERX3321583,4.9.30,4,gut metagenome,SAMEA5579329,Fecal_1,Fecal,D10,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295257,4,Animal distal gut,intestine environment,ERX3321584,4CEC,4,gut metagenome,SAMEA5579330,Tissue_1,Cecum,C4,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295258,4,Animal distal gut,intestine environment,ERX3321585,4DG,4,gut metagenome,SAMEA5579331,Tissue_1,Digestive_gland,G4,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295259,4,Animal proximal gut,intestine environment,ERX3321586,4ESO,4,gut metagenome,SAMEA5579332,Tissue_1,Esophagus,A4,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295260,4,Animal surface,organic material,ERX3321587,4GIL,4,fish metagenome,SAMEA5579333,Tissue_1,Gill,E4,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,1,Post-treatment,Treatment
+ERR3295261,4,Animal distal gut,intestine environment,ERX3321588,4INT,4,gut metagenome,SAMEA5579334,Tissue_1,Intestine,D4,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295262,4,Animal corpus,organic material,ERX3321589,4KID,4,fish metagenome,SAMEA5579335,Tissue_1,Kidney,F4,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,1,Post-treatment,Treatment
+ERR3295263,4,Animal surface,organic material,ERX3321590,4SKI,4,fish metagenome,SAMEA5579336,Tissue_1,Skin,H4,UBERON:skin,UBERON:mucus,UBERON:skin,1,Post-treatment,Treatment
+ERR3295264,4,Animal proximal gut,intestine environment,ERX3321591,4STO,4,gut metagenome,SAMEA5579337,Tissue_1,Stomach,B4,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,1,Post-treatment,Treatment
+ERR3295265,5,Animal distal gut,feces,ERX3321592,5.10.12,5,gut metagenome,SAMEA5579338,Fecal_3,Fecal,E1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295266,5,Animal distal gut,feces,ERX3321593,5.10.13,5,gut metagenome,SAMEA5579339,Fecal_3,Fecal,E4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295267,5,Animal distal gut,feces,ERX3321594,5.10.14,5,gut metagenome,SAMEA5579340,Fecal_3,Fecal,E7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295268,5,Animal distal gut,feces,ERX3321595,5.10.15,5,gut metagenome,SAMEA5579341,Fecal_3,Fecal,E10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295269,5,Animal distal gut,feces,ERX3321596,5.10.4,5,gut metagenome,SAMEA5579342,Fecal_2,Fecal,E1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295270,5,Animal distal gut,feces,ERX3321597,5.10.6,5,gut metagenome,SAMEA5579343,Fecal_2,Fecal,E4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295271,5,Animal distal gut,feces,ERX3321598,5.10.7,5,gut metagenome,SAMEA5579344,Fecal_2,Fecal,E7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295272,5,Animal distal gut,feces,ERX3321599,5.10.9,5,gut metagenome,SAMEA5579345,Fecal_2,Fecal,E10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295273,5,Animal distal gut,feces,ERX3321600,5.9.27,5,gut metagenome,SAMEA5579346,Fecal_1,Fecal,E1,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295274,5,Animal distal gut,feces,ERX3321601,5.9.28,5,gut metagenome,SAMEA5579347,Fecal_1,Fecal,E4,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295275,5,Animal distal gut,feces,ERX3321602,5.9.29,5,gut metagenome,SAMEA5579348,Fecal_1,Fecal,E7,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295276,5,Animal distal gut,feces,ERX3321603,5.9.30,5,gut metagenome,SAMEA5579349,Fecal_1,Fecal,E10,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295277,5,Animal distal gut,intestine environment,ERX3321604,5CEC,5,gut metagenome,SAMEA5579350,Tissue_1,Cecum,C5,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295278,5,Animal distal gut,intestine environment,ERX3321605,5DG,5,gut metagenome,SAMEA5579351,Tissue_1,Digestive_gland,G5,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295279,5,Animal proximal gut,intestine environment,ERX3321606,5ESO,5,gut metagenome,SAMEA5579352,Tissue_1,Esophagus,A5,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295280,5,Animal surface,organic material,ERX3321607,5GIL,5,fish metagenome,SAMEA5579353,Tissue_1,Gill,E5,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,1,Post-treatment,Treatment
+ERR3295281,5,Animal distal gut,intestine environment,ERX3321608,5INT,5,gut metagenome,SAMEA5579354,Tissue_1,Intestine,D5,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295282,5,Animal corpus,organic material,ERX3321609,5KID,5,fish metagenome,SAMEA5579355,Tissue_1,Kidney,F5,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,1,Post-treatment,Treatment
+ERR3295283,5,Animal surface,organic material,ERX3321610,5SKI,5,fish metagenome,SAMEA5579356,Tissue_1,Skin,H5,UBERON:skin,UBERON:mucus,UBERON:skin,1,Post-treatment,Treatment
+ERR3295284,5,Animal proximal gut,intestine environment,ERX3321611,5STO,5,gut metagenome,SAMEA5579357,Tissue_1,Stomach,B5,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,1,Post-treatment,Treatment
+ERR3295285,6,Animal distal gut,feces,ERX3321612,6.10.12,6,gut metagenome,SAMEA5579358,Fecal_3,Fecal,F1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295286,6,Animal distal gut,feces,ERX3321613,6.10.13,6,gut metagenome,SAMEA5579359,Fecal_3,Fecal,F4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295287,6,Animal distal gut,feces,ERX3321614,6.10.14,6,gut metagenome,SAMEA5579360,Fecal_3,Fecal,F7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295288,6,Animal distal gut,feces,ERX3321615,6.10.15,6,gut metagenome,SAMEA5579361,Fecal_3,Fecal,F10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment2,Treatment
+ERR3295289,6,Animal distal gut,feces,ERX3321616,6.10.4,6,gut metagenome,SAMEA5579362,Fecal_2,Fecal,F1,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295290,6,Animal distal gut,feces,ERX3321617,6.10.6,6,gut metagenome,SAMEA5579363,Fecal_2,Fecal,F4,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295291,6,Animal distal gut,feces,ERX3321618,6.10.7,6,gut metagenome,SAMEA5579364,Fecal_2,Fecal,F7,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295292,6,Animal distal gut,feces,ERX3321619,6.10.9,6,gut metagenome,SAMEA5579365,Fecal_2,Fecal,F10,UBERON:feces,UBERON:feces,UBERON:feces,1,Treatment,Treatment
+ERR3295293,6,Animal distal gut,feces,ERX3321620,6.9.27,6,gut metagenome,SAMEA5579366,Fecal_1,Fecal,F1,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295294,6,Animal distal gut,feces,ERX3321621,6.9.28,6,gut metagenome,SAMEA5579367,Fecal_1,Fecal,F4,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295295,6,Animal distal gut,feces,ERX3321622,6.9.29,6,gut metagenome,SAMEA5579368,Fecal_1,Fecal,F7,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295296,6,Animal distal gut,feces,ERX3321623,6.9.30,6,gut metagenome,SAMEA5579369,Fecal_1,Fecal,F10,UBERON:feces,UBERON:feces,UBERON:feces,1,Pre-treatment,Treatment
+ERR3295297,6,Animal distal gut,intestine environment,ERX3321624,6CEC,6,gut metagenome,SAMEA5579370,Tissue_1,Cecum,C6,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295298,6,Animal distal gut,intestine environment,ERX3321625,6DG,6,gut metagenome,SAMEA5579371,Tissue_1,Digestive_gland,G6,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295299,6,Animal proximal gut,intestine environment,ERX3321626,6ESO,6,gut metagenome,SAMEA5579372,Tissue_1,Esophagus,A6,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295300,6,Animal surface,organic material,ERX3321627,6GIL,6,fish metagenome,SAMEA5579373,Tissue_1,Gill,E6,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,1,Post-treatment,Treatment
+ERR3295301,6,Animal distal gut,intestine environment,ERX3321628,6INT,6,gut metagenome,SAMEA5579374,Tissue_1,Intestine,D6,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,1,Post-treatment,Treatment
+ERR3295302,6,Animal corpus,organic material,ERX3321629,6KID,6,fish metagenome,SAMEA5579375,Tissue_1,Kidney,F6,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,1,Post-treatment,Treatment
+ERR3295303,6,Animal surface,organic material,ERX3321630,6SKI,6,fish metagenome,SAMEA5579376,Tissue_1,Skin,H6,UBERON:skin,UBERON:mucus,UBERON:skin,1,Post-treatment,Treatment
+ERR3295304,6,Animal proximal gut,intestine environment,ERX3321631,6STO,6,gut metagenome,SAMEA5579377,Tissue_1,Stomach,B6,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,1,Post-treatment,Treatment
+ERR3295305,7,Animal distal gut,feces,ERX3321632,7.10.12,7,gut metagenome,SAMEA5579378,Fecal_3,Fecal,G1,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295306,7,Animal distal gut,feces,ERX3321633,7.10.13,7,gut metagenome,SAMEA5579379,Fecal_3,Fecal,G4,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295307,7,Animal distal gut,feces,ERX3321634,7.10.14,7,gut metagenome,SAMEA5579380,Fecal_3,Fecal,G7,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295308,7,Animal distal gut,feces,ERX3321635,7.10.15,7,gut metagenome,SAMEA5579381,Fecal_3,Fecal,G10,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295309,7,Animal distal gut,feces,ERX3321636,7.10.4,7,gut metagenome,SAMEA5579382,Fecal_2,Fecal,G1,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295310,7,Animal distal gut,feces,ERX3321637,7.10.6,7,gut metagenome,SAMEA5579383,Fecal_2,Fecal,G4,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295311,7,Animal distal gut,feces,ERX3321638,7.10.7,7,gut metagenome,SAMEA5579384,Fecal_2,Fecal,G7,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295312,7,Animal distal gut,feces,ERX3321639,7.10.9,7,gut metagenome,SAMEA5579385,Fecal_2,Fecal,G10,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295313,7,Animal distal gut,feces,ERX3321640,7.9.27,7,gut metagenome,SAMEA5579386,Fecal_1,Fecal,G1,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295314,7,Animal distal gut,feces,ERX3321641,7.9.28,7,gut metagenome,SAMEA5579387,Fecal_1,Fecal,G4,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295315,7,Animal distal gut,feces,ERX3321642,7.9.29,7,gut metagenome,SAMEA5579388,Fecal_1,Fecal,G7,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295316,7,Animal distal gut,feces,ERX3321643,7.9.30,7,gut metagenome,SAMEA5579389,Fecal_1,Fecal,G10,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295317,7,Animal distal gut,intestine environment,ERX3321644,7CEC,7,gut metagenome,SAMEA5579390,Tissue_1,Cecum,C7,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295318,7,Animal distal gut,intestine environment,ERX3321645,7DG,7,gut metagenome,SAMEA5579391,Tissue_1,Digestive_gland,G7,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295319,7,Animal proximal gut,intestine environment,ERX3321646,7ESO,7,gut metagenome,SAMEA5579392,Tissue_1,Esophagus,A7,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295320,7,Animal surface,organic material,ERX3321647,7GIL,7,fish metagenome,SAMEA5579393,Tissue_1,Gill,E7,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3295321,7,Animal distal gut,intestine environment,ERX3321648,7INT,7,gut metagenome,SAMEA5579394,Tissue_1,Intestine,D7,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295322,7,Animal corpus,organic material,ERX3321649,7KID,7,fish metagenome,SAMEA5579395,Tissue_1,Kidney,F7,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3295323,7,Animal surface,organic material,ERX3321650,7SKI,7,fish metagenome,SAMEA5579396,Tissue_1,Skin,H7,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3295324,7,Animal proximal gut,intestine environment,ERX3321651,7STO,7,gut metagenome,SAMEA5579397,Tissue_1,Stomach,B7,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
+ERR3295325,8,Animal distal gut,feces,ERX3321652,8.10.12,8,gut metagenome,SAMEA5579398,Fecal_3,Fecal,H1,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295326,8,Animal distal gut,feces,ERX3321653,8.10.13,8,gut metagenome,SAMEA5579399,Fecal_3,Fecal,H4,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295327,8,Animal distal gut,feces,ERX3321654,8.10.14,8,gut metagenome,SAMEA5579400,Fecal_3,Fecal,H7,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295328,8,Animal distal gut,feces,ERX3321655,8.10.15,8,gut metagenome,SAMEA5579401,Fecal_3,Fecal,H10,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295329,8,Animal distal gut,feces,ERX3321656,8.10.4,8,gut metagenome,SAMEA5579402,Fecal_2,Fecal,H1,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295330,8,Animal distal gut,feces,ERX3321657,8.10.6,8,gut metagenome,SAMEA5579403,Fecal_2,Fecal,H4,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295331,8,Animal distal gut,feces,ERX3321658,8.10.7,8,gut metagenome,SAMEA5579404,Fecal_2,Fecal,H7,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295332,8,Animal distal gut,feces,ERX3321659,8.10.9,8,gut metagenome,SAMEA5579405,Fecal_2,Fecal,H10,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295333,8,Animal distal gut,feces,ERX3321660,8.9.27,8,gut metagenome,SAMEA5579406,Fecal_1,Fecal,H1,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295334,8,Animal distal gut,feces,ERX3321661,8.9.28,8,gut metagenome,SAMEA5579407,Fecal_1,Fecal,H4,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295335,8,Animal distal gut,feces,ERX3321662,8.9.29,8,gut metagenome,SAMEA5579408,Fecal_1,Fecal,H7,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295336,8,Animal distal gut,feces,ERX3321663,8.9.30,8,gut metagenome,SAMEA5579409,Fecal_1,Fecal,H10,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295337,8,Animal distal gut,intestine environment,ERX3321664,8CEC,8,gut metagenome,SAMEA5579410,Tissue_1,Cecum,C8,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295338,8,Animal distal gut,intestine environment,ERX3321665,8DG,8,gut metagenome,SAMEA5579411,Tissue_1,Digestive_gland,G8,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295339,8,Animal proximal gut,intestine environment,ERX3321666,8ESO,8,gut metagenome,SAMEA5579412,Tissue_1,Esophagus,A8,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295340,8,Animal surface,organic material,ERX3321667,8GIL,8,fish metagenome,SAMEA5579413,Tissue_1,Gill,E8,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3295341,8,Animal distal gut,intestine environment,ERX3321668,8INT,8,gut metagenome,SAMEA5579414,Tissue_1,Intestine,D8,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295342,8,Animal corpus,organic material,ERX3321669,8KID,8,fish metagenome,SAMEA5579415,Tissue_1,Kidney,F8,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3295343,8,Animal surface,organic material,ERX3321670,8SKI,8,fish metagenome,SAMEA5579416,Tissue_1,Skin,H8,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3295344,8,Animal proximal gut,intestine environment,ERX3321671,8STO,8,gut metagenome,SAMEA5579417,Tissue_1,Stomach,B8,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
+ERR3295345,9,Animal distal gut,feces,ERX3321672,9.10.12,9,gut metagenome,SAMEA5579418,Fecal_3,Fecal,A2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295346,9,Animal distal gut,feces,ERX3321673,9.10.13,9,gut metagenome,SAMEA5579419,Fecal_3,Fecal,A5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295347,9,Animal distal gut,feces,ERX3321674,9.10.14,9,gut metagenome,SAMEA5579420,Fecal_3,Fecal,A8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295348,9,Animal distal gut,feces,ERX3321675,9.10.15,9,gut metagenome,SAMEA5579421,Fecal_3,Fecal,A11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment2,Control
+ERR3295349,9,Animal distal gut,feces,ERX3321676,9.10.4,9,gut metagenome,SAMEA5579422,Fecal_2,Fecal,A2,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295350,9,Animal distal gut,feces,ERX3321677,9.10.6,9,gut metagenome,SAMEA5579423,Fecal_2,Fecal,A5,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295351,9,Animal distal gut,feces,ERX3321678,9.10.7,9,gut metagenome,SAMEA5579424,Fecal_2,Fecal,A8,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295352,9,Animal distal gut,feces,ERX3321679,9.10.9,9,gut metagenome,SAMEA5579425,Fecal_2,Fecal,A11,UBERON:feces,UBERON:feces,UBERON:feces,2,Treatment,Control
+ERR3295353,9,Animal distal gut,feces,ERX3321680,9.9.27,9,gut metagenome,SAMEA5579426,Fecal_1,Fecal,A2,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295354,9,Animal distal gut,feces,ERX3321681,9.9.28,9,gut metagenome,SAMEA5579427,Fecal_1,Fecal,A5,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295355,9,Animal distal gut,feces,ERX3321682,9.9.29,9,gut metagenome,SAMEA5579428,Fecal_1,Fecal,A8,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295356,9,Animal distal gut,feces,ERX3321683,9.9.30,9,gut metagenome,SAMEA5579429,Fecal_1,Fecal,A11,UBERON:feces,UBERON:feces,UBERON:feces,2,Pre-treatment,Control
+ERR3295357,9,Animal distal gut,intestine environment,ERX3321684,9CEC,9,gut metagenome,SAMEA5579430,Tissue_1,Cecum,C9,UBERON:gastrointestinal system,UBERON:cecum,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295358,9,Animal distal gut,intestine environment,ERX3321685,9DG,9,gut metagenome,SAMEA5579431,Tissue_1,Digestive_gland,G9,UBERON:gastrointestinal system,UBERON:digestive gland,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295359,9,Animal proximal gut,intestine environment,ERX3321686,9ESO,9,gut metagenome,SAMEA5579432,Tissue_1,Esophagus,A9,UBERON:gastrointestinal system,UBERON:esophagus,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295360,9,Animal surface,organic material,ERX3321687,9GIL,9,fish metagenome,SAMEA5579433,Tissue_1,Gill,E9,UBERON:respiratory system system,UBERON:mucus,UBERON:gill,2,Post-treatment,Control
+ERR3295361,9,Animal distal gut,intestine environment,ERX3321688,9INT,9,gut metagenome,SAMEA5579434,Tissue_1,Intestine,D9,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:digestive tract,2,Post-treatment,Control
+ERR3295362,9,Animal corpus,organic material,ERX3321689,9KID,9,fish metagenome,SAMEA5579435,Tissue_1,Kidney,F9,UBERON:genitourinary system,UBERON:tissue,UBERON:kidney,2,Post-treatment,Control
+ERR3295363,9,Animal surface,organic material,ERX3321690,9SKI,9,fish metagenome,SAMEA5579436,Tissue_1,Skin,H9,UBERON:skin,UBERON:mucus,UBERON:skin,2,Post-treatment,Control
+ERR3295364,9,Animal proximal gut,intestine environment,ERX3321691,9STO,9,gut metagenome,SAMEA5579437,Tissue_1,Stomach,B9,UBERON:gastrointestinal system,UBERON:lumen of gut,UBERON:stomach,2,Post-treatment,Control
